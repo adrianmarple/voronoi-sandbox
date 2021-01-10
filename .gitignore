@@ -1,0 +1,10 @@
+/.vs/
+/Build/
+/Library/
+/Logs/
+/Temp/
+/obj/
+
+*.pyc
+*.DS_Store
+*.csproj
