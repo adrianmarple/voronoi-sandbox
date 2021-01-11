@@ -104,7 +104,7 @@
           if (_Flatten) {
             delta -= normal * dot(delta, normal);
           }
-          delta = delta - modulus * floor(delta / modulus) - modulus/2;
+          delta = modulus * (frac(delta / modulus) - 0.5);
 
           float dist = dot(pow(abs(delta), _Power), 1);
           dist = pow(dist, 1 / _Power);

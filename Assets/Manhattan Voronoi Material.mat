@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Manhatten Voronoi Material
+  m_Name: Manhattan Voronoi Material
   m_Shader: {fileID: 4800000, guid: cb0be9e5595834c4aab2efb5d5d0f8b5, type: 3}
   m_ShaderKeywords: _MANHATTEN_ON _SIMPLISTIC_ON
   m_LightmapFlags: 4
